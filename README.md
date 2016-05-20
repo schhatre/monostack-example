@@ -1,3 +1,4 @@
+This is my fork
 # Monolithe Stack Example
 
 This repository contains the tutorial used during the CappCon2016 in Liege. It will walk you through the creation of a ToDoList app, from the specification to the UI. As a disclaimer, the user experience for a todo list provided by this tutorial is quite terrible :). We could do way better, but we want to keep things as standard as possible. But when you will be done reading this tutorial, feel free to explore the stacks and see if you can make it way better (hint: you can!)
